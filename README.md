@@ -1,2 +1,2 @@
 # hello-world
-trying to learn github....
+Steigend IT Solutions
